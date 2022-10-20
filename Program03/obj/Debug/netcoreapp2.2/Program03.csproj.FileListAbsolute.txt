@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao09\Program03\bin\Debug\netcoreapp2.2\Program03.deps.json
+C:\Users\ander\program\balta\secao09\Program03\bin\Debug\netcoreapp2.2\Program03.runtimeconfig.json
+C:\Users\ander\program\balta\secao09\Program03\bin\Debug\netcoreapp2.2\Program03.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao09\Program03\bin\Debug\netcoreapp2.2\Program03.dll
+C:\Users\ander\program\balta\secao09\Program03\bin\Debug\netcoreapp2.2\Program03.pdb
+C:\Users\ander\program\balta\secao09\Program03\obj\Debug\netcoreapp2.2\Program03.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao09\Program03\obj\Debug\netcoreapp2.2\Program03.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao09\Program03\obj\Debug\netcoreapp2.2\Program03.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao09\Program03\obj\Debug\netcoreapp2.2\Program03.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao09\Program03\obj\Debug\netcoreapp2.2\Program03.dll
+C:\Users\ander\program\balta\secao09\Program03\obj\Debug\netcoreapp2.2\Program03.pdb

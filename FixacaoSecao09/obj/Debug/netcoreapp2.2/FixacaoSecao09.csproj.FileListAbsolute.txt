@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\bin\Debug\netcoreapp2.2\FixacaoSecao09.deps.json
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\bin\Debug\netcoreapp2.2\FixacaoSecao09.runtimeconfig.json
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\bin\Debug\netcoreapp2.2\FixacaoSecao09.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\bin\Debug\netcoreapp2.2\FixacaoSecao09.dll
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\bin\Debug\netcoreapp2.2\FixacaoSecao09.pdb
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\obj\Debug\netcoreapp2.2\FixacaoSecao09.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\obj\Debug\netcoreapp2.2\FixacaoSecao09.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\obj\Debug\netcoreapp2.2\FixacaoSecao09.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\obj\Debug\netcoreapp2.2\FixacaoSecao09.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\obj\Debug\netcoreapp2.2\FixacaoSecao09.dll
+C:\Users\ander\program\balta\secao09\FixacaoSecao09\obj\Debug\netcoreapp2.2\FixacaoSecao09.pdb

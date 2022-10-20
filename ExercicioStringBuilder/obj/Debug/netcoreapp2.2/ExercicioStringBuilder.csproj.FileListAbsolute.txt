@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\bin\Debug\netcoreapp2.2\ExercicioStringBuilder.deps.json
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\bin\Debug\netcoreapp2.2\ExercicioStringBuilder.runtimeconfig.json
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\bin\Debug\netcoreapp2.2\ExercicioStringBuilder.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\bin\Debug\netcoreapp2.2\ExercicioStringBuilder.dll
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\bin\Debug\netcoreapp2.2\ExercicioStringBuilder.pdb
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\obj\Debug\netcoreapp2.2\ExercicioStringBuilder.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\obj\Debug\netcoreapp2.2\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\obj\Debug\netcoreapp2.2\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\obj\Debug\netcoreapp2.2\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\obj\Debug\netcoreapp2.2\ExercicioStringBuilder.dll
+C:\Users\ander\program\balta\secao09\ExercicioStringBuilder\obj\Debug\netcoreapp2.2\ExercicioStringBuilder.pdb

@@ -1,0 +1,11 @@
+C:\Users\ander\program\balta\secao09\ExercicioEnum\bin\Debug\netcoreapp2.2\ExercicioEnum.deps.json
+C:\Users\ander\program\balta\secao09\ExercicioEnum\bin\Debug\netcoreapp2.2\ExercicioEnum.runtimeconfig.json
+C:\Users\ander\program\balta\secao09\ExercicioEnum\bin\Debug\netcoreapp2.2\ExercicioEnum.runtimeconfig.dev.json
+C:\Users\ander\program\balta\secao09\ExercicioEnum\bin\Debug\netcoreapp2.2\ExercicioEnum.dll
+C:\Users\ander\program\balta\secao09\ExercicioEnum\bin\Debug\netcoreapp2.2\ExercicioEnum.pdb
+C:\Users\ander\program\balta\secao09\ExercicioEnum\obj\Debug\netcoreapp2.2\ExercicioEnum.csprojAssemblyReference.cache
+C:\Users\ander\program\balta\secao09\ExercicioEnum\obj\Debug\netcoreapp2.2\ExercicioEnum.csproj.CoreCompileInputs.cache
+C:\Users\ander\program\balta\secao09\ExercicioEnum\obj\Debug\netcoreapp2.2\ExercicioEnum.AssemblyInfoInputs.cache
+C:\Users\ander\program\balta\secao09\ExercicioEnum\obj\Debug\netcoreapp2.2\ExercicioEnum.AssemblyInfo.cs
+C:\Users\ander\program\balta\secao09\ExercicioEnum\obj\Debug\netcoreapp2.2\ExercicioEnum.dll
+C:\Users\ander\program\balta\secao09\ExercicioEnum\obj\Debug\netcoreapp2.2\ExercicioEnum.pdb
